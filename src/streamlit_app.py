@@ -3,7 +3,7 @@ import streamlit as st
 from typing import List, Dict, Tuple
 
 # Import your chatbot logic from code.py
-from code import (
+from my_code import (
     hybrid_chatbot,
     llm_chatbot,
     traditional_chatbot,
