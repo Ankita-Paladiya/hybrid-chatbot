@@ -1,0 +1,16 @@
+openai
+spacy
+sentence-transformers
+wikipedia-api
+numpy
+scikit-learn
+fuzzywuzzy
+nltk
+rouge
+transformers
+pandas
+seaborn
+matplotlib
+textblob
+googletrans==4.0.0-rc1
+streamlit>=1.33
